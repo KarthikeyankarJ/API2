@@ -38,7 +38,7 @@ body{
   background-color: #e5e5f7;
   opacity: 0.8;
 
-  background-image: linear-gradient(rgba(255, 255, 255, 0.1),rgba(255, 255, 255, 0.1)),url(https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mike-b-170811.jpg&fm=jpg);
+  background-image: linear-gradient(rgba(255, 255, 255, 0.1),rgba(255, 255, 255, 0.1)),url(https://img.freepik.com/free-vector/realistic-studio-lights-empty-background-design_1017-27233.jpg);
   background-position: fixed;
   background-size: cover;
 }
